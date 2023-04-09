@@ -18,7 +18,7 @@
     <ClCompile Include="..\..\..\..\Downloads\framework.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\Skeleton.cpp">
+    <ClCompile Include="ECSGGY_1HAZI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
