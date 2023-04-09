@@ -134,7 +134,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\Downloads\framework.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\Skeleton.cpp" />
+    <ClCompile Include="ECSGGY_1HAZI.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\framework.h" />
